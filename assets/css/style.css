@@ -1,0 +1,22 @@
+
+/*Clear any existing padding & margin from browser*/
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100vh;
+}
+
+/*Navigation Bar content, Logo & Links*/
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 16px 0;
+    background-color: black;
+}
+
+.navbar > a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
