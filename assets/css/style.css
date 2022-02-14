@@ -5,6 +5,15 @@ body{
     padding: 0;
     width: 100%;
     min-height: 100vh;
+    text-align: center;
+}
+
+/*Create Line break rule*/
+hr{
+    max-width: 60%;
+    align-items: center;
+    color: black;
+    height: 2px;
 }
 
 /*Navigation Bar content, Logo & Links*/
@@ -13,10 +22,44 @@ body{
     justify-content: space-around;
     padding: 16px 0;
     background-color: black;
+    max-width: 100%;
 }
 
 .navbar > a{
     color: white;
     text-decoration: none;
     font-size: 18px;
+}
+
+/*Hero section*/
+.hero{
+    max-width: 100%;
+    height: 450px;
+    border: solid red 2px;
+}
+
+.parralax{
+    max-width: 100%;
+    border: solid blue 2px;
+    height: 175px;
+}
+
+.what-we-do{
+    max-width: 100%;
+    height: 600px;
+    border: solid red 2px;
+}
+
+.testimonials{
+    max-width: 100%;
+    height: 600px;
+    border: solid blue 2px;
+}
+
+footer{
+    max-width: 100%;
+    height: 150px;
+    border: solid red 2px;
+    background-color: black;
+    color: white;
 }
