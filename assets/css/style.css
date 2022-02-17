@@ -34,17 +34,36 @@ body{
 .hero{
     max-width: 100%;
     height: 600px;
-    border: solid red 2px;
     background-repeat: no-repeat;
     background-image: url('/assets/images/hero-image.jpg');
+    background-color: #000;
     background-position: center; /* Center the image */
     background-size: cover;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
 }
+
+div .hero-overlay{
+    max-width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(55, 89, 214, 0.719);
+    border-radius: 10px;
+    padding: 15px;
+}
+
 
 .parralax{
     max-width: 100%;
     border: solid blue 2px;
     height: 175px;
+    background-image: none;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .what-we-do{

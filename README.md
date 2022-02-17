@@ -62,3 +62,4 @@ Required to style my HTML and images
 
 ## Acknowledgements
 
+hero: Photo by Anna Shvets from Pexels
