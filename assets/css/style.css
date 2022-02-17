@@ -57,10 +57,9 @@ div .hero-overlay{
 
 
 .parralax{
-    max-width: 100%;
-    border: solid blue 2px;
-    height: 175px;
-    background-image: none;
+    width: 100%;
+    height: 225px;
+    background-image: url('/assets/images/parralax2.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;

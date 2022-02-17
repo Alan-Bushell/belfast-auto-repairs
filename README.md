@@ -50,7 +50,10 @@ Required to style my HTML and images
 
 
 ## **Bugs**
-
+Issues with centering content on the hero overlay
+Parralax just did not help the flow of the page where I had orignally placed it. 
+Decided to improve the flow of the page that the parralax would be better between the two content sections.
+Original image just didnt fit the flow of the page nor the style of the page
 ## Deployment
 
 
@@ -63,3 +66,4 @@ Required to style my HTML and images
 ## Acknowledgements
 
 hero: Photo by Anna Shvets from Pexels
+parralax: Photo by jae park from Pexels
