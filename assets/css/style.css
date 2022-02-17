@@ -96,6 +96,7 @@ div .hero-overlay{
     overflow: hidden;
     background-color: #fff;
     width: 300px;
+    padding-bottom: 10px;
 }
 
 .card-header img {
@@ -126,7 +127,28 @@ div .hero-overlay{
   .tag-teal {
     background-color: #47bcd4;
   }
-  
+
+  .card-user img {
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    justify-content: start;
+    margin-left: 20px;
+  }
+
+  .card-user{
+    display: flex;
+    margin-top: auto;
+  }
+
+  .card-user-info h5{
+    margin: 0;
+  }
+
+  .card-user-info h5, .card-user-info small{
+    margin-left: 10px;
+  }
 
 /* Footer section*/
 footer{
