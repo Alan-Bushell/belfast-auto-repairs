@@ -53,11 +53,20 @@ div .hero-overlay{
     color: white;
     display: flex;
     flex-direction: column;
-    background-color: rgba(55, 89, 214, 0.719);
+    background-color: rgba(49, 193, 236, 0.55);
     border-radius: 10px;
     padding: 15px;
+    align-items: center;
 }
 
+.hero-button{
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-size: 1.2em;
+    font-family: Roboto, comic-sans;
+    
+}
 
 .parralax{
     width: 100%;
@@ -78,7 +87,6 @@ div .hero-overlay{
 .testimonials{
     max-width: 100%;
     min-height: 600px;
-    border: solid blue 2px;
 }
 
 .card-deck{
@@ -157,4 +165,13 @@ footer{
     border: solid red 2px;
     background-color: black;
     color: white;
+}
+
+.footer-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100%;
+    max-width: 100%;
 }
