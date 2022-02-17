@@ -177,14 +177,21 @@ footer{
     max-width: 100%;
 }
 
-.footer-h4{
+.footer-times-h4{
     color: white;
     font-size: 20px;
     letter-spacing: 3px;
+    padding-top: 25px;
+}
+
+.footer-times{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 .footer-table{
     width: 100%;
-    height: fit-content;
+    height: 100%;
     padding: 5px;
     margin: 5px;
     display: flex;
@@ -198,4 +205,28 @@ footer{
 .right-border{
     border-right: white solid 1px;
     padding: 5px;
+}
+
+.footer-socials-h4, .footer-address-h4{
+    color: white;
+    font-size: 20px;
+    letter-spacing: 3px;
+    margin: 0;
+}
+
+.footer-socials{
+
+    color: white;
+    font-size: 30px;
+    display: block;
+    padding-right: 300px;
+}
+
+.footer-socials i{
+    padding: 25px;
+}
+
+.footer-contact{
+    margin: 0;
+    padding-right: 15px;
 }
