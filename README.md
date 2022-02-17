@@ -54,7 +54,9 @@ Issues with centering content on the hero overlay
 Parralax just did not help the flow of the page where I had orignally placed it. 
 Decided to improve the flow of the page that the parralax would be better between the two content sections.
 Original image just didnt fit the flow of the page nor the style of the page
-Font awesome social media icons showing as squares even though the script link is in the head and icon tags are correct.
+Font awesome social media icons showing as squares even though the script link is in the head and icon tags are correct.(fixed)
+Issue with footer content overlapping and not centering
+
 
 ## Deployment
 
@@ -78,3 +80,5 @@ card3-user: Photo by Nicholas Swatz from Pexels(https://www.pexels.com/photo/pho
 Card & testimonial section - Most content added from scratch. Supplemented what I contributed by using external resources and other user examples of a 3d card affect with digestable content.
 freefrontend.com(https://freefrontend.com/css-cards/)
 w3schools(w3schools.com)
+csstricks.com
+
