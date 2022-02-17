@@ -67,3 +67,5 @@ Original image just didnt fit the flow of the page nor the style of the page
 
 hero: Photo by Anna Shvets from Pexels
 parralax: Photo by jae park from Pexels
+--
+card1: Photo by Mike from Pexels(https://www.pexels.com/photo/white-land-rover-range-rover-suv-on-road-116675/)

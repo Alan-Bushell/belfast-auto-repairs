@@ -82,16 +82,17 @@ div .hero-overlay{
     height: 400px;
     max-width: 100%;
     display: flex;
-    justify-content: space-around;
-    padding: 25px;
+    justify-content: center;
+    padding: 40px;
 }
 
 .card{
-    height: 350px;
-    width: 250px;
-    border: solid black 2px;
-    border-radius: 5%;
-    box-shadow: 0 8px 30px rgba(8, 39, 150, 0.6);
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    background-color: #fff;
+    width: 300px;
 }
 
 /* Footer section*/
