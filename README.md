@@ -69,3 +69,5 @@ hero: Photo by Anna Shvets from Pexels
 parralax: Photo by jae park from Pexels
 --
 card1: Photo by Mike from Pexels(https://www.pexels.com/photo/white-land-rover-range-rover-suv-on-road-116675/)
+card2: Photo by Lloyd Freeman from Pexels(https://www.pexels.com/photo/photo-of-mercedes-benz-g-class-parked-on-dirt-road-1429775/)
+card3: Photo by Mike from Pexels(https://www.pexels.com/photo/blue-bmw-coupe-892522/)
