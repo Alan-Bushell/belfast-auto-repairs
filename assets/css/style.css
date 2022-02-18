@@ -85,7 +85,7 @@ div .hero-overlay {
 .what-we-do {
     max-width: 100%;
     height: 600px;
-    border: solid red 2px;
+    
 }
 
 /*Home services*/
@@ -285,6 +285,23 @@ footer {
     .fa-house-chimney{
         visibility: visible;
         text-align: center;
+    }
+
+    .what-we-do{
+        height: 100%;
+        padding-bottom: 25px;
+    }
+
+    .home-what-container{
+        display: flex;
+        flex-direction: column;
+        min-width: 100%;
+        align-items: center;
+        min-height: 100%;
+    }
+
+    .home-services{
+        width: 70%;
     }
 
     .card-deck {
