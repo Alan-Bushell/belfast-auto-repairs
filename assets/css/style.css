@@ -377,4 +377,13 @@ input{
     .footer-socials-h4{
         padding-top: 15px;
     }
+
+    /*Contact form media query*/
+    #issue{
+        max-width: 150px;
+    }
+
+    .contact-form{
+        padding: 0;
+    }
 }
