@@ -275,7 +275,6 @@ footer {
     padding: 35px;
     width: 60%;
     height: 100%;
-    border: solid red 2px;
     background-color: #006d88;
     display: flex;
     justify-content: space-between;
@@ -286,6 +285,7 @@ footer {
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 40px;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
 }
 
 fieldset{
@@ -301,6 +301,17 @@ input{
     border-radius: 6px;
 }
 
+#prefix{
+    border-radius: 6px;
+}
+
+.contact-small{
+    font-size: 10px;
+}
+
+.form-submit{
+    font-size: 16px;
+}
 
 /*Media queries*/
 

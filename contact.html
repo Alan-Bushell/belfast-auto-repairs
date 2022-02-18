@@ -25,11 +25,11 @@
             <a href="contact.html">Contact</a>
         </nav>
     </header>
-    <h1 class="contact-h1">If you have any questions or 
+    <h1 class="contact-h1">If you have any questions, would like to get a Quote or 
         would like to book in with us please use one of the contact methods below
         and we will be in touch!
     </h1>
-    <form class="contact-form" action="#" target="_blank" method="post">
+    <form class="contact-form" name="contact-form" action="https://formdump.codeinstitute.net/" target="_blank" method="post" autocomplete="on">
         <fieldset>
             <legend>Personal Information</legend>
             <label for="fname">First name:</label>
@@ -38,8 +38,14 @@
             <input type="text" id="lname" name="lname" placeholder="Last Name.." required><br>
             <label for="email">Email:</label>
             <input type="email" id="email" name="email" placeholder="Email Address.." required>
-            <label for="number">Phone Number:</label>
-            <input type="tel" id="number" name="number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="Phone Number.." required><br><br>
+            <label for="number">Mobile Number:</label>
+            <select id="prefix" name="prefix" size="1" required>
+                <option value="085">085</option>
+                <option value="086">086</option>
+                <option value="087">087</option>
+                <option value="089">089</option>
+              </select>
+            <input type="tel" id="number" name="number" placeholder="Mobile Number" pattern="[0-9]{7}" required><br>
         </fieldset>
         <fieldset>
             <legend>Car Information</legend>
@@ -50,8 +56,13 @@
             <label for="reg">Reg:</label>
             <input type="text" id="reg" name="reg" placeholder="Car Registration.." required><br>
             <label for="issue">Description of issue:</label><br>
-            <textarea name="issue" id="issue" rows="3" cols="60" placeholder="Write your query here.." required></textarea>
+            <textarea name="issue" id="issue" rows="3" cols="60" minlength="30" placeholder="Write your query here.." required></textarea><br>
+            <small class="contact-small">Min length 30 characters</small>
         </fieldset>
+        <span>
+            <input type="reset" value="Reset Form" class="form-reset">
+            <input type="submit" value="Submit Request" class="form-submit">
+        </span>
     </form>
     
 
