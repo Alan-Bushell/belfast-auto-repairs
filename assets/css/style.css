@@ -272,7 +272,6 @@ footer {
 }
 
 .contact-form{
-    padding: 35px;
     width: 60%;
     height: 100%;
     background-color: #006d88;
@@ -313,26 +312,45 @@ input{
     font-size: 16px;
 }
 
+/*contact information*/
+
+.contact-h2{
+    font-size: 30px;
+    font-weight: 600;
+}
+
 .contact-map-section{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    border: solid red 1px;
     min-height: 300px;
-    width: 100%;
-    margin-bottom: 40px;
+    max-width: 100%;
+    margin-bottom: 5px;
+}
+
+.contact-numbers-h3{
+    font-size: 36px;
 }
 
 .contact-numbers{
-    border: solid blue 1px;
     width: 100%;
     min-height: 100%;
 }
 
 #map{
-    border: solid green 1px;
     width: 100%;
     min-height: 100%;
+}
+
+ul.contact-numbers-list{
+    list-style-type:  none;
+    padding: 0;
+    margin: 30px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.contact-numbers-list li{
+    margin: 20px;
 }
 
 /*Media queries*/
@@ -407,5 +425,8 @@ input{
 
     .contact-form{
         padding: 0;
+    }
+    .contact-map-section{
+        flex-direction: column;
     }
 }
