@@ -313,6 +313,28 @@ input{
     font-size: 16px;
 }
 
+.contact-map-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: solid red 1px;
+    min-height: 300px;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.contact-numbers{
+    border: solid blue 1px;
+    width: 100%;
+    min-height: 100%;
+}
+
+#map{
+    border: solid green 1px;
+    width: 100%;
+    min-height: 100%;
+}
+
 /*Media queries*/
 
 /* Extra small devices (phones, 600px and down) */
