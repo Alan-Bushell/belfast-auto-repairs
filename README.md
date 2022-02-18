@@ -56,6 +56,9 @@ Decided to improve the flow of the page that the parralax would be better betwee
 Original image just didnt fit the flow of the page nor the style of the page
 Font awesome social media icons showing as squares even though the script link is in the head and icon tags are correct.(fixed)
 Issue with footer content overlapping and not centering
+issue with services overlapping on mobile. (fixed, was targetting wrong element container)
+Contrast issue noted on lighthouse for the tag elements on the testimonials.(fixed, made colour darker and increased font size and weight).
+Images not in correct aspect ratio. (removed placeholder images and downloaded them in the size needed.)
 
 
 ## Deployment

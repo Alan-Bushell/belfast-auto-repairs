@@ -155,7 +155,8 @@ div .hero-overlay {
 .card-tag {
     background: #cccccc;
     border-radius: 50px;
-    font-size: 12px;
+    font-size: 14px;
+    font-weight: 600;
     margin: 0;
     color: #fff;
     padding: 2px 10px;
@@ -164,7 +165,7 @@ div .hero-overlay {
 }
 
 .tag-teal {
-    background-color: #47bcd4;
+    background-color: #006d88;
 }
 
 .card-user img {
