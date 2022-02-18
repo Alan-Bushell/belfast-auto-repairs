@@ -99,11 +99,18 @@ div .hero-overlay {
 
 .home-services{
     border: solid 1px black;
-    font-size: 16px;
+    font-size: 20px;
     margin: 20px;
     width: 12.5%;
     box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+.home-services>div{
+    font-size: 60px;
+    padding-top: 15px;
 }
 
 /*Testimonials & card section */
