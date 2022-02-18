@@ -29,13 +29,28 @@
         would like to book in with us please use one of the contact methods below
         and we will be in touch!
     </h1>
-    <form class="contact-form">
+    <form class="contact-form" action="#" target="_blank" method="post">
         <fieldset>
             <legend>Personal Information</legend>
             <label for="fname">First name:</label>
-            <input type="text" id="fname" name="fname">
+            <input type="text" id="fname" name="fname" placeholder="First Name.." required>
             <label for="lname">Last name:</label>
-            <input type="text" id="lname" name="lname">
+            <input type="text" id="lname" name="lname" placeholder="Last Name.." required><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Email Address.." required>
+            <label for="number">Phone Number:</label>
+            <input type="tel" id="number" name="number" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="Phone Number.." required><br><br>
+        </fieldset>
+        <fieldset>
+            <legend>Car Information</legend>
+            <label for="make">Car Make:</label>
+            <input type="text" id="make" name="make" placeholder="Car Make.." required>
+            <label for="model">Car Model:</label>
+            <input type="text" id="model" name="model" placeholder="Car Model.." required><br>
+            <label for="reg">Reg:</label>
+            <input type="text" id="reg" name="reg" placeholder="Car Registration.." required><br>
+            <label for="issue">Description of issue:</label><br>
+            <textarea name="issue" id="issue" rows="3" cols="60" placeholder="Write your query here.." required></textarea>
         </fieldset>
     </form>
     

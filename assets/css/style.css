@@ -279,11 +279,27 @@ footer {
     background-color: #006d88;
     display: flex;
     justify-content: space-between;
+    flex-direction: column;
     margin-left: 20%;
     border-radius: 10px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 40px;
 }
 
+fieldset{
+    margin: 15px;
+}
 
+textarea{
+    border-radius: 6px;
+}
+
+input{
+    margin: 5px;
+    border-radius: 6px;
+}
 
 
 /*Media queries*/
