@@ -74,6 +74,7 @@ card2: Photo by Lloyd Freeman from Pexels(https://www.pexels.com/photo/photo-of-
 card2-user: Photo by Andrea Piacquadio from Pexels(https://www.pexels.com/photo/man-in-brown-button-up-shirt-3785079/)
 card3: Photo by Mike from Pexels(https://www.pexels.com/photo/blue-bmw-coupe-892522/)
 card3-user: Photo by Nicholas Swatz from Pexels(https://www.pexels.com/photo/photo-of-man-wearing-white-shirt-2770600/)
+about-hero: Photo by Andrea Piacquadio from Pexels(https://www.pexels.com/photo/happy-elderly-worker-smiling-in-workshop-3846508/)
 ## Content
 used maps.ie to embed googlemap Iframe(https://www.maps.ie/)
 
