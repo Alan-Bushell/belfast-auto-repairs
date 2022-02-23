@@ -94,10 +94,11 @@ div .hero-overlay {
     width: 100%;
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
     height: auto;
 }
 
-.home-services{
+.services-item{
     border: solid 1px black;
     font-size: 20px;
     margin: 20px;
@@ -108,7 +109,7 @@ div .hero-overlay {
     color: white;
 }
 
-.home-services>div{
+.services-item>div{
     font-size: 60px;
     padding-top: 15px;
 }
@@ -414,7 +415,7 @@ ul.contact-numbers-list{
         min-height: 100%;
     }
 
-    .home-services{
+    .services-item{
         width: 70%;
     }
 
@@ -424,7 +425,7 @@ ul.contact-numbers-list{
         align-items: center;
         padding: 0;
     }
-
+/*Footer Content*/
     .footer-content {
         width: 100%;
         display: flex;
@@ -455,5 +456,25 @@ ul.contact-numbers-list{
     }
     .contact-map-section{
         flex-direction: column;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) and (max-width:950px) {
+    .card-deck {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0;
+    }
+    .home-what-container{
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        height: auto;
+        flex-wrap: wrap;
+    }
+    .services-item{
+        min-width: 15%;
     }
 }
