@@ -274,6 +274,14 @@ footer {
     margin: 0;
     padding-right: 15px;
 }
+
+#footer-h5>a{
+    color: white;
+}
+
+#footer-h5>a:hover{
+    color: blue;
+}
 /*Contact Page*/
 
 .contact-h1{
@@ -321,6 +329,11 @@ input{
 
 .contact-small{
     font-size: 10px;
+}
+
+.marketing{
+    font-size: 15px;
+    margin-top: 10px;
 }
 
 .form-submit{
