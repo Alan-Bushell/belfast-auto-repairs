@@ -33,6 +33,12 @@ body {
     font-size: 18px;
 }
 
+.navbar>a:hover{
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}
+
 .fa-house-chimney{
     visibility: hidden;
 }
@@ -70,8 +76,14 @@ div .hero-overlay {
     border-radius: 5px;
     font-size: 1.2em;
     font-family: Roboto, comic-sans;
-
 }
+
+.hero-button:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
 
 .parralax {
     width: 100%;
@@ -107,6 +119,11 @@ div .hero-overlay {
     border-radius: 10px;
     background-color: black;
     color: white;
+    opacity: 1;
+}
+.services-item:hover{
+    opacity: 0.7;
+    cursor: pointer;
 }
 
 .services-item>div{
@@ -196,9 +213,9 @@ div .hero-overlay {
 footer {
     max-width: 100%;
     min-height: 100px;
-    border: solid red 2px;
     background-color: black;
     color: white;
+    padding-bottom: 5px;
 }
 
 .services-footer-content {
@@ -265,9 +282,15 @@ footer {
     font-size: 25px;
     display: block;
 }
+.footer-socials i:hover{
+    cursor: pointer;
+    color:#000;
+    background-color: white;
+    border-radius:50%;
+}
 
 .footer-socials i {
-    padding: 20px;
+    padding: 10px;
 }
 
 .footer-contact {
@@ -410,11 +433,14 @@ ul.contact-numbers-list{
     width: 320px;
     height: 320px;
     margin: 15px;
+    opacity: 1;
+    border-radius: 5px;
 }
 
-#portfolio:hover{
-    color: rgba(0, 0, 0, 0.3);
-    z-index: -2000;
+.portfolio-image>img:hover{
+    opacity: 0.9;
+    cursor: pointer;
+    box-shadow: 2px 2px black
 }
 
 /*Media queries*/
