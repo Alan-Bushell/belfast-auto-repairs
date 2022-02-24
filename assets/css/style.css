@@ -397,6 +397,21 @@ ul.contact-numbers-list{
     justify-content: center;
 }
 
+/*Portfolio / Gallery Page*/
+#portfolio{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.portfolio-image>img{
+    width: 320px;
+    height: 320px;
+    margin: 15px;
+}
+
 /*Media queries*/
 
 /* Extra small devices (phones, 600px and down) */
