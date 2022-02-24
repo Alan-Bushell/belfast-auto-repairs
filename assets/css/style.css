@@ -412,6 +412,11 @@ ul.contact-numbers-list{
     margin: 15px;
 }
 
+#portfolio:hover{
+    color: rgba(0, 0, 0, 0.3);
+    z-index: -2000;
+}
+
 /*Media queries*/
 
 /* Extra small devices (phones, 600px and down) */
