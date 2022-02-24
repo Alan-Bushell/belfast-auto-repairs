@@ -33,6 +33,7 @@ body {
     font-size: 18px;
 }
 
+
 .navbar>a:hover{
     color: black;
     background-color: white;
@@ -50,7 +51,7 @@ body {
     background-repeat: no-repeat;
     background-image: url('/assets/images/hero-image.jpg');
     background-color: #000;
-    background-position: center;
+    background-position: top center;
     /* Center the image */
     background-size: cover;
     display: flex;

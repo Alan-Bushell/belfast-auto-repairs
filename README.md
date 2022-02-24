@@ -65,7 +65,7 @@ Images not in correct aspect ratio. (removed placeholder images and downloaded t
 
 
 ## Credits
-hero: Photo by Anna Shvets from Pexels
+hero: (https://www.pexels.com/photo/an-auto-mechanic-checking-the-engine-of-a-car-4315570/)
 parralax: Photo by jae park from Pexels
 --
 card1: Photo by Mike from Pexels(https://www.pexels.com/photo/white-land-rover-range-rover-suv-on-road-116675/)
