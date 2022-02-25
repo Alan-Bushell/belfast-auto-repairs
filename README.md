@@ -1,9 +1,10 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-
-## Belfast Auto Repairs
-
+# Belfast Auto Repairs
+## A website built for a fictional auto repair garage based out of Belfast, Northern Ireland.
 ### MS1 - Alan Bushell
+
+![am I responsive screenshot](assets/images/barair.png)
+
+
 
 **[Live site]()**
 
