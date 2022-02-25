@@ -47,27 +47,62 @@ Here is how I established the ranking and also the options:
 
 This above preplanning helped me to determine the type of project & industry to build for.
 
+# UX design
+
+## Strategy Plane
+
+### To determine the best approach to this project I started with to determine the user and business needs.
+
 ## User Stories
 
+### User
+> As a user I want to be able to find a mechanic in my local area to fix my car.  
+> As a user I want to be able to contact the merchant online.  
+> As a user I want to be able to request a quote online.  
+> As a user I want to be able to see evidence of the merchants work & read testimonials as proof of work.  
+> As a user I want to be able to find out when the business is open.
 
-## Wireframes
+### Business Owner
+> As the site owner I want to be able to showcase my business to prospective customers.  
+> As the site owner I want to build trust and showcase details of my family run business and work completed.  
+> As the site owner I want to create leads and provide customers a way to book in and/or request quotes.  
+> As the site owner I want to use this website to attract more business from customers in and around Belfast. 
+> As the site owner I want to show the user my business opening hours.   
 
-Please click [here](#) to view wireframes created in MockFlow
+## Scope Plane
+> The website should have a Navigation menu that is consistent across all pages and devices.  
+> The website should have a welcome message for the user explaining to them who we are and what we do.  
+> The website should neatly and appropriatly list the services we provide to the user.  
+> The website should give the user proof of work completed through testimonials and/or a portoflio of work done or in progress.  
+> The website should give the user a way to contact the business for quotes or consultations through a form.  
+> The website should give the user more contact methods including phone number and the physical address.  
+> The website should include a map so the user can plan their route to the business. 
+> The website should include opening hours for the user to view on all pages. 
 
-
-## Features
+## Structure Plane
+> To acheieve the goals of the above the website should include at least 4 pages consisting of:  Home, About, Portfolio, Contact.  
 
 **Home Page**
-
+> Navigation with links  
+> Hero welcome message with call to action to take user to contact form.  
+> Service card section showcasing the many things that we can repair.
+> Testimonials showcasing reviews and work completed from users of this business.
+> Footer section with opening hours of the business along with links to the businesses social media pages.
 
 **About**
+> The about page should show a picture of the business owner.  
+> The about page should explain any relevant information about the business in text format.  
 
+**Portfolio**
+> The portfolio page should show images in an organised responsive fashion showing proof of work complete or in progress. 
 
 **Contact**
+> The contact page should have a contact form for the user to get in touch or request quote.  
+> The form should collect contact details for the customer so that the merchant can contact them back.
+> The form should include an option for the user to select if they want to receive promotional offers and merchant collect e-mail addresses.
+> The contact page should include multiple forms or contact including phone, address and a map of the business location.
 
-
-**Services**
-
+## Skeleton Plane
 
 ## Features Left to Implement
 
