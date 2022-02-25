@@ -104,6 +104,19 @@ This above preplanning helped me to determine the type of project & industry to 
 
 ## Skeleton Plane
 
+### Home Page Desktop Wireframe
+![Home Page Desktop Wireframe](assets/images/wireframe1.png)
+
+### Home Page mobile wireframe
+![Home page mobile responsive Wireframe](assets/images/wireframe2.png)
+
+> The design flow in this website was meant to showcase a balanced minimal design that provided relevant information in a concise format on all devices.  
+> As the project was created, the intial design did not provide the flow that was expected in the pre project stage. The project was then adapted to help with this during development.  
+> The color theme was to be mainly using black and white for the base content with most additional color coming from overlays, images and as a background on the contact form.  
+
+## Surface Plane
+
+
 ## Features Left to Implement
 
 ## Technologies Used
@@ -116,6 +129,11 @@ Required to style my HTML and images
 
 **[Mockflow](https://mockflow.com/)**
  
+**Font Awesome** Used to add icons to website
+
+**GoogleFonts** Used to add specific fonts to website.
+
+
 
 ## Testing
 
