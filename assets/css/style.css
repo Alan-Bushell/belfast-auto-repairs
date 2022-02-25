@@ -122,10 +122,6 @@ div .hero-overlay {
     color: white;
     opacity: 1;
 }
-.services-item:hover{
-    opacity: 0.7;
-    cursor: pointer;
-}
 
 .services-item>div{
     font-size: 60px;
@@ -446,8 +442,6 @@ ul.contact-numbers-list{
 }
 
 .portfolio-image>img:hover{
-    opacity: 0.9;
-    cursor: pointer;
     box-shadow: 2px 2px black
 }
 
