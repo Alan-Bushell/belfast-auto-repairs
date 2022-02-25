@@ -481,11 +481,10 @@ ul.contact-numbers-list{
         visibility: hidden;
     }
 
-    .fa-house-chimney{
-        visibility: visible;
-        text-align: center;
+    .navbar>a{
+        font-size: 16px;
     }
-
+    
     .what-we-do{
         height: 100%;
         padding-bottom: 25px;
