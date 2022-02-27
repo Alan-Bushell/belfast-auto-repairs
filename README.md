@@ -38,14 +38,18 @@ A high score for Revenue Potential would indicate more potential work from servi
 At this stage I drilled down into the Service Industry and listed 8 different services provided and ranked them by 1 to 8, with 1 being the most interesting to me personally.
 
 Here is how I established the ranking and also the options:
-1. Accounting - 8
-2. Personal Training - 3
-3. Plumber / Boiler Servicing - 2
-4. Mechanic / Automotive - 1
-5. Cakes / Baking - 7
-6. Entertainment ( Dj's, Bouncy Castles etc) - 6
-7. Landscaping - 4
-8. Painting & Decorating - 5
+
+| No | Service Type | Rank |
+|--|--|--|
+|1| Accounting  | 8 |
+|2| Personal Training | 3 |
+|3| Plumber / Boiler Servicing | 2 | 
+|4| Mechanic / Automotive  | 1 |
+|5| Cakes / Baking | 7 |
+|6| Entertainment ( Dj's, Bouncy Castles etc) | 6 |
+|7| Landscaping  | 4 |
+|8| Painting & Decorating | 5 |
+
 
 This above preplanning helped me to determine the type of project & industry to build for.
 
