@@ -284,7 +284,11 @@ footer {
     font-size: 25px;
     display: block;
 }
-.footer-socials i:hover{
+
+.fa-brands{
+    color: white;
+}
+.fa-brands:hover{
     cursor: pointer;
     color:#000;
     background-color: white;
