@@ -252,6 +252,15 @@ And the occasional pop of color to finish on a modern design.
 
 ## Deployment
 
+> To deploy the project I followed these steps starting from the main project repository [here](https://github.com/Alan-Bushell/belfast-auto-repairs).
+
+ 1. Clicked on `Settings` on the navigation menu in the repository
+ 2. I then selected the `Pages` menu on the side bar.
+ 3. In the first dropdown menu labeled `Source` I selected the branch of the name `main` from the dropdown.
+ 4. In the next dropdown labeled `/root` I left as the default option.
+ 5. Selected Save
+ 
+> I then received a notification from GitHub that my project is being deployed and after about 1 minute & a couple of refreshes of the page it was ready and live.
 
 ## Credits
 
