@@ -122,40 +122,118 @@ This above preplanning helped me to determine the type of project & industry to 
 
 ## Surface Plane
 
+### Color
+> I decided the best approach to this website was an attempt at minimilistic design with rare pops of colour. Most other websites of this industry had either gone for too much in terms of design or too little and just provide a very poor user experience.
 
-## Features Left to Implement
+> The decision was to stick with 
 
-## Technologies Used
+ - #fff - White
+ - #000 - Black
+And the occasional pop of color to finish on a modern design.
+>Most additional color came through the images with the exception being the Hero Overlay and the Contact form.
+>During the building of the project, some of the contact form did not have enough of a aspect ratio so I darkened the color to better suit users with visual impairment.
 
-**
-**HTML**
-**CSS**
+### Typography - 
 
-Required to style my HTML and images
+>The font's chosen for this project were:
 
-**[Mockflow](https://mockflow.com/)**
- 
-**Font Awesome** Used to add icons to website
+ - Roboto
+ - Lato
+> The rationale was that I wanted all of the information provided on the website to be clear, concise and without any unnecessary distractions. 
+> My focus was to also assist with users who may have visual impairments
 
-**GoogleFonts** Used to add specific fonts to website.
+**IMAGES OF FINISHED ELEMENTS GO HERE**
+
+# Features Left to implement
+
+### Home page
+> In the future I would like to include a side element banner to promote special offers that the repair shop may want to offer from time to time.
+
+>I would also like to make the service tiles as modals that onClick they would pop open with information about average issues, cost and duration it would take to fix. 
+>I would like to add a carousel section to the testimonial cards that would auto move in a rotational basis and consist of about 5-8 different testimonials.
+
+### About Page
+> In the future I would like to add profiles to the about page with a breakdown of all the staff at the business. Including their name, image, what they specialize in and brief bio about themselves.
+
+### Portfolio
+> I would like to add a lightbox type gallery for these photos so that when a user clicks on them it will pop up and allow them to scroll through them as their leisure.
+> I would also like to add side by side before and after photos. Ideally with a scroll option for the user to see the work done.
+
+### Contact Us
+>I have not developed a back end for the contact form and this would be high on my priority list to ensure that e-mails with booking requests are being sent both to the business & confirmation to the customer of what they requested.
+>I would like to add a WhatsApp option or similar style contact method for business to allow customers to message the business for a more real-time response, whether that be for 24/7 breakdown or general queries
+>I would also like to add call from browser to save the user having to copy and paste the phone number.
+
+### Additional Page ideas
+>I would add a careers page for potential young adults who would be interested in apprentices to submit their info.
+
+>I would add a facility for users to actually book in, in a realtime booking system.
 
 
+# Technology Used
+### Html
+> Used to structure my webpages and the bones of any web project
 
-## Testing
+### CSS
+> Used to style and add layout to my project.
 
-**Testing phase 1**
+### Font Awesome
+> Used for all the icons in this project
 
-**Testing Phase 2**
+### GoogleFonts
+> Used for all the fonts used in this project and to compare potential fonts.
 
-**Testing Phase 3**
+### Googlemap API
+> Used to embed I-frame on the contact page of a fictional business based in a real location in Belfast, Norther Ireland.
+
+# Testing
+> Testing on this project was mainly done manually by myself and a few friends to determine site usability, responsiveness and ensure it is intuitive to a completely new user.
+
+### Testing Phase
+
+**Testing for links and Form**
+| Test |Outcome  |
+|--|--|
+|All links on Navigation lead to their correct pages| Pass  |
+|Contact us button leads to contact form on contact us page| Pass
+|Footer social links all lead to their respective social media sites |Pass|
+|Contact form submits when all criteria is filled correctly| Pass  |
+|User prevented from submitting form without correct elements| Pass|
+|Form Validation presents when incorrect input type is entered |Pass|
+
+**Testing for responsiveness**
+| Test |Outcome  |
+|--|--|
+|Home page, about, portfolio, contact us displays correctly on screens larger than 950px|Pass |
+|Home page, about, portfolio, contact us displays correctly on screens smaller than 950px |Pass  
+
+### User testing
+
+**User testing Challenge**
+
+> 5 users are given some basic tasks prior to visiting web page and the results totaled to give result (20% per successful user result.)
+
+| Test | Result |
+|--|--|
+|Upon arrival to website please navigate to where you would expect to find a contact form| 100%|
+|Please navigate to the Facebook social of this business|100%  |
+|Please fill in contact form with your information and preference in the marketing button| 100%|
+|Please provide me with a contact number of 24/7 breakdown| 100%  |
+|Please navigate to the Portfolio page and count how many images there are | 100%  |
+
+**User responsive testing**
+
+> 5 users were asked to view the website on their mobile devices and/or tablets to provide any feedback on errors or page overlapping issues.
+
+| Test | Result |
+|--|--|
+|Issues Reported| None|
 
 
 ## **Bugs**
 > Issues with centering content on the hero overlay
 
-
 > Parralax just did not help the flow of the page where I had orignally placed it. 
-
 
 > Decided to improve the flow of the page that the parralax would be better between the two content sections.
 
@@ -193,16 +271,27 @@ Required to style my HTML and images
 
 
 > port-image1: Photo by Andrea Piacquadio from Pexels(https://www.pexels.com/photo/man-in-black-jacket-standing-under-the-vehicle-3807133/)
+
 > port-image2: Photo by Lex Ger from Pexels(https://www.pexels.com/photo/close-up-photo-of-automotive-part-3642618/)
+ 
 > port-image3: Photo by Andrea Piacquadio from Pexels(https://www.pexels.com/photo/bearded-man-fixing-motorcycle-in-workshop-3822843/)
+ 
 > port-image4: Photo by Andrea Piacquadio from Pexels(https://www.pexels.com/photo/man-in-black-jacket-and-black-pants-standing-under-vehicle-3807811/)
+ 
 > port-image5: Photo by Mídia from Pexels(https://www.pexels.com/photo/red-car-engine-bay-4116220/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+ 
 > port-image6: Photo by Malte Luk from Pexels(https://www.pexels.com/photo/man-fixing-vehicle-engine-2244746/)
+ 
 > port-image7: Photo by Andrea Piacquadio from Pexels(https://www.pexels.com/photo/man-in-black-jacket-and-black-knit-cap-inspecting-car-engine-3807277/)
+ 
 > port-image8: Photo by cottonbro from Pexels(https://www.pexels.com/photo/man-in-blue-dress-shirt-holding-brown-wooden-tool-4489737/)
+ 
 > port-image9: Photo by Andrea Piacquadio from Pexels(https://www.pexels.com/photo/man-in-black-jacket-and-black-pants-sitting-near-silver-vehicle-3807386/)
+ 
 > port-image10: Photo by Andrea Piacquadio from Pexels(https://www.pexels.com/photo/photo-of-man-inspecting-car-engine-3807517/)
+ 
 > port-image11: Photo by cottonbro from Pexels(https://www.pexels.com/photo/man-in-black-t-shirt-and-blue-denim-jeans-standing-near-black-car-during-nighttime-4489721/)
+ 
 > port-image12: Photo by cottonbro from Pexels(https://www.pexels.com/photo/person-in-black-shirt-and-gray-pants-standing-beside-black-car-4489765/)
 
 ## Content
