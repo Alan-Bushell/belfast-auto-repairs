@@ -6,11 +6,11 @@
 
 
 
-**[Live site]()**
+**[Live site](https://alan-bushell.github.io/belfast-auto-repairs/index.html)**
 
 ------------------------------------------------------------------
 
-**[Repository]()**
+**[Repository](https://github.com/Alan-Bushell/belfast-auto-repairs)**
   
 
 
