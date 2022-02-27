@@ -25,11 +25,13 @@ A high score for complexity would indicate a harder project but in turn also a g
 A high score for Time would indicate less time to actually create project.
 A high score for Revenue Potential would indicate more potential work from servicing this market.
 
-| Type | Portfolio-Weight | Complexity | Time to research | Revenue Potential| Total Score: |
-| Services | 9 | 7 | 9 | 9 | 34 |
-| Club | 8 | 7 | 8 | 8 | 31 |
-| Small Biz | 9 | 7 | 8 | 0 | 33 |
-| Specific Topic(historical or other) | 5 | 7 | 2 | 1 | 15 |
+
+| Type | Portfolio-Weight| Complexity | Time to research | Rev Potential | Total Score:
+|--|--|--|--|--|--|
+|Services| 9 | 7 | 9 | 9 | 34 |
+|Club| 8 | 7 | 8 | 8 | 31 |
+|Small Biz| 9 | 7 | 8 | 0 | 33 |
+|Specific Topic(historical or other)| 5 | 7 | 2 | 1 | 15 |
 
 >From the above the best path forward & best for my growth would be to build a Service website.
 
