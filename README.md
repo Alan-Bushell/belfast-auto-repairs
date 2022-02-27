@@ -265,7 +265,7 @@ And the occasional pop of color to finish on a modern design.
 ## Credits
 
 >hero: (https://www.pexels.com/photo/an-auto-mechanic-checking-the-engine-of-a-car-4315570/)
->parralax: Photo by jae park from Pexels
+>parralax: Photo by jae park from Pexels(https://www.pexels.com/photo/set-of-tool-wrench-162553/)
 
 > card1: Photo by Mike from Pexels(https://www.pexels.com/photo/white-land-rover-range-rover-suv-on-road-116675/)
 > card1-user: Photo by Daniel Xavier from Pexels(https://www.pexels.com/photo/woman-wearing-black-eyeglasses-1239291/)
