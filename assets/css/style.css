@@ -288,6 +288,7 @@ footer {
 .fa-brands{
     color: white;
 }
+
 .fa-brands:hover{
     cursor: pointer;
     color:#000;
@@ -501,7 +502,7 @@ ul.contact-numbers-list{
     .services-item{
         width: 70%;
     }
-
+    
     .card-deck {
         display: flex;
         flex-direction: column;
@@ -525,6 +526,7 @@ ul.contact-numbers-list{
         padding-right: 0;
         padding-bottom: 25px;
     }
+
     .footer-socials-h4{
         padding-top: 15px;
     }
@@ -538,6 +540,7 @@ ul.contact-numbers-list{
         padding: 0;
         width: 80%;
     }
+
     .contact-map-section{
         flex-direction: column;
     }
@@ -551,6 +554,7 @@ ul.contact-numbers-list{
         align-items: center;
         padding: 0;
     }
+
     .home-what-container{
         width: 100%;
         display: flex;
@@ -558,6 +562,7 @@ ul.contact-numbers-list{
         height: auto;
         flex-wrap: wrap;
     }
+
     .services-item{
         min-width: 15%;
     }
