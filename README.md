@@ -229,6 +229,22 @@ And the occasional pop of color to finish on a modern design.
 |--|--|
 |Issues Reported| None|
 
+## Google Lighthouse Testing
+
+### index.html
+
+![Google Lighthouse index.html](assets/images/Lighthouse-index.png)
+
+### about.html
+
+![Google Lighthouse about.html](assets/images/Lighthouse-about.png)
+
+### portfolio.html
+![Google Lighthouse portfolio.html](assets/images/Lighthouse-portfolio.png)
+
+### contact.html
+![Google Lighthouse contact.html](assets/images/Lighthouse-contact.png)
+
 
 ## **Bugs**
 > Issues with centering content on the hero overlay
