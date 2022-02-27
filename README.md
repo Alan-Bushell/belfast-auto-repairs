@@ -186,6 +186,12 @@ And the occasional pop of color to finish on a modern design.
 ### Googlemap API
 > Used to embed I-frame on the contact page of a fictional business based in a real location in Belfast, Norther Ireland.
 
+### Canva
+> Used to create the favicon logo
+
+### Online-Convert.com
+> Used to convert files from png to webp to reduce size and improve web loading speed.
+
 # Testing
 > Testing on this project was mainly done manually by myself and a few friends to determine site usability, responsiveness and ensure it is intuitive to a completely new user.
 
@@ -247,23 +253,23 @@ And the occasional pop of color to finish on a modern design.
 
 
 ## **Bugs**
-> Issues with centering content on the hero overlay
+> Issues with centering content on the hero overlay. **fixed**
 
-> Parralax just did not help the flow of the page where I had orignally placed it. 
+> Decided to improve the flow of the page that the parralax would be better between the two content sections. **fixed**
 
-> Decided to improve the flow of the page that the parralax would be better between the two content sections.
+> Original image just didnt fit the flow of the page nor the style of the page **fixed**
 
-> Original image just didnt fit the flow of the page nor the style of the page
+> Font awesome social media icons showing as squares even though the script link is in the head and icon tags are correct. **fixed**
 
-> Font awesome social media icons showing as squares even though the script link is in the head and icon tags are correct.(fixed)
+> Issue with footer content overlapping and not centering. **fixed**
 
-> Issue with footer content overlapping and not centering
+> issue with services overlapping on mobile. (fixed, was targetting wrong element container) **fixed**
 
-> issue with services overlapping on mobile. (fixed, was targetting wrong element container)
+> Contrast issue noted on lighthouse for the tag elements on the testimonials.(fixed, made colour darker and increased font size and weight). **fixed**
 
->Contrast issue noted on lighthouse for the tag elements on the testimonials.(fixed, made colour darker and increased font size and weight).
+> Images not in correct aspect ratio. (removed placeholder images and downloaded them in the size needed.) **fixed**
 
-> Images not in correct aspect ratio. (removed placeholder images and downloaded them in the size needed.)
+> Bug appeared which some images did not show when deployed. Issue resolved as some images were using absolute file paths and not relative. **fixed**
 
 
 ## Deployment
@@ -280,20 +286,25 @@ And the occasional pop of color to finish on a modern design.
 
 ## Credits
 
->hero: (https://www.pexels.com/photo/an-auto-mechanic-checking-the-engine-of-a-car-4315570/)
->parralax: Photo by jae park from Pexels(https://www.pexels.com/photo/set-of-tool-wrench-162553/)
+### All images sourced from pexels.com. Links for images included below
+
+> hero: (https://www.pexels.com/photo/an-auto-mechanic-checking-the-engine-of-a-car-4315570/)
+
+> parralax: Photo by jae park from Pexels(https://www.pexels.com/photo/set-of-tool-wrench-162553/)
 
 > card1: Photo by Mike from Pexels(https://www.pexels.com/photo/white-land-rover-range-rover-suv-on-road-116675/)
+
 > card1-user: Photo by Daniel Xavier from Pexels(https://www.pexels.com/photo/woman-wearing-black-eyeglasses-1239291/)
 
 > card2: Photo by Lloyd Freeman from Pexels(https://www.pexels.com/photo/photo-of-mercedes-benz-g-class-parked-on-dirt-road-1429775/)
+
 > card2-user: Photo by Andrea Piacquadio from Pexels(https://www.pexels.com/photo/man-in-brown-button-up-shirt-3785079/)
 
 > card3: Photo by Mike from Pexels(https://www.pexels.com/photo/blue-bmw-coupe-892522/)
+
 > card3-user: Photo by Nicholas Swatz from Pexels(https://www.pexels.com/photo/photo-of-man-wearing-white-shirt-2770600/)
 
 > about-hero: Photo by Andrea Piacquadio from Pexels(https://www.pexels.com/photo/happy-elderly-worker-smiling-in-workshop-3846508/)
-
 
 > port-image1: Photo by Andrea Piacquadio from Pexels(https://www.pexels.com/photo/man-in-black-jacket-standing-under-the-vehicle-3807133/)
 
@@ -319,17 +330,30 @@ And the occasional pop of color to finish on a modern design.
  
 > port-image12: Photo by cottonbro from Pexels(https://www.pexels.com/photo/person-in-black-shirt-and-gray-pants-standing-beside-black-car-4489765/)
 
-## Content
-used maps.ie to embed googlemap Iframe(https://www.maps.ie/)
+## Content & Resources
+### Maps.ie 
+> Used to embed googlemap Iframe(https://www.maps.ie/)
+
+### Pexels.com
+> Images used in this project.
+
+### w3 schools
+> Used for general lookup for HTML and CSS synthax queries
+
+### Stack Overflow
+> Used to query issues relating to overlapping CSS issues
+
+### freefrontend.com(https://freefrontend.com/css-cards/)
+> Used for inspiration & reference for the cards deck used in testimonials
+
+### csstricks.com
+> Used for help with flex box and allignment
+
+### Code Institute
+> Project created in line with course content and within project 1 scope.
 
 
 ## Acknowledgements
 
-Card & testimonial section - Most content added from scratch. Supplemented what I contributed by using external resources and other user examples of a 3d card affect with digestable content.
-
-freefrontend.com(https://freefrontend.com/css-cards/)
-
-w3schools(w3schools.com)
-
-csstricks.com
-
+### Dick Vlandeeren
+> My mentor who provided me with constructive feedback and positive reinforcement where applicable.
