@@ -30,7 +30,7 @@ A high score for Revenue Potential would indicate more potential work from servi
 |--|--|--|--|--|--|
 |Services| 9 | 7 | 9 | 9 | 34 |
 |Club| 8 | 7 | 8 | 8 | 31 |
-|Small Biz| 9 | 7 | 8 | 0 | 33 |
+|Small Biz| 9 | 7 | 8 | 9 | 33 |
 |Specific Topic(historical or other)| 5 | 7 | 2 | 1 | 15 |
 
 >From the above the best path forward & best for my growth would be to build a Service website.
