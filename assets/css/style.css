@@ -72,9 +72,13 @@ div .hero-overlay {
 .hero-button {
     background-color: white;
     color: black;
-    border-radius: 5px;
+    border-radius: 10px;
     font-size: 1.2em;
     font-family: Roboto, comic-sans;
+    padding: 5px;
+    border: solid black 1px;
+    text-decoration: none;
+    font-weight: 600;
 }
 
 .hero-button:hover{
