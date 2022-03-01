@@ -143,7 +143,12 @@ And the occasional pop of color to finish on a modern design.
 > The rationale was that I wanted all of the information provided on the website to be clear, concise and without any unnecessary distractions. 
 > My focus was to also assist with users who may have visual impairments
 
-**IMAGES OF FINISHED ELEMENTS GO HERE**
+## Features
+
+### index.html
+
+#### Navigation Bar
+![Navigation Bar](assets/images/features/feature-nav.png)
 
 # Features Left to implement
 
