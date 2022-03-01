@@ -441,6 +441,14 @@ ul.contact-numbers-list{
     margin: 20px;
 }
 
+/*Form Submit page*/
+.form-submit-h1{
+    color: white;
+    background-color: green;
+    margin: 30px;
+    padding: 15px;
+}
+
 /*About page*/
 
 .hero-about {
