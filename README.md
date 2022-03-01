@@ -107,6 +107,7 @@ This above preplanning helped me to determine the type of project & industry to 
 > The form should collect contact details for the customer so that the merchant can contact them back.
 > The form should include an option for the user to select if they want to receive promotional offers and merchant collect e-mail addresses.
 > The contact page should include multiple forms or contact including phone, address and a map of the business location.
+> The contact form should give user feedback on submission.
 
 ## Skeleton Plane
 
@@ -251,6 +252,33 @@ And the occasional pop of color to finish on a modern design.
 ### contact.html
 ![Google Lighthouse contact.html](assets/images/testing-scans/lighthouse-contact.png)
 
+
+## HTML Validation
+### index.html
+#### Result: No Errors
+![W3 index.html Check](assets/images/testing-scans/index-w3-check.png)
+#### Result: No Errors
+### about.html
+
+![W3 about.html Check](assets/images/testing-scans/about-w3-check.png)
+#### Result: No Errors
+
+### portfolio.html
+![W3 about.html Check](assets/images/testing-scans/gallery-w3-check.png)
+#### Result: No Errors, 1 warning about the section missing a heading. Page heading appears for the portfolio above and requires no additional content.
+
+### contact.html
+![W3 about.html Check](assets/images/testing-scans/contact-w3-check.png)
+#### Result: No Errors
+
+### contact-complete.html
+![W3 about.html Check](assets/images/testing-scans/form-complete-w3-check.png)
+#### Result: No Errors
+
+## CSS Validation
+### contact-complete.html
+![W3 about.html Check](assets/images/testing-scans/css-w3jigsaw-check.png)
+#### Result: No Errors
 
 ## **Bugs**
 > Issues with centering content on the hero overlay. **fixed**
