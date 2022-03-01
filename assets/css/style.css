@@ -561,6 +561,7 @@ ul.contact-numbers-list{
     }
 }
 
+
 /* Small devices (portrait tablets and large phones, 600px and up to 950px) */
 @media only screen and (min-width: 600px) and (max-width:950px) {
     .card-deck {
