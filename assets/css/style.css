@@ -34,12 +34,19 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-
 .navbar>a:hover{
     color: black;
     background-color: white;
     cursor: pointer;
 }
+
+.navbar>.logo:hover{
+    color: white;
+    background-color: black;
+    cursor: default;
+}
+
+
 
 /*Hero section*/
 .hero {
@@ -344,6 +351,10 @@ footer {
     font-weight: 600;
     margin-bottom: 50px;
     box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+}
+
+legend{
+    text-align: center;
 }
 
 fieldset{
