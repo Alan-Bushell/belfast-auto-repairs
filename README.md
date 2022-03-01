@@ -239,17 +239,17 @@ And the occasional pop of color to finish on a modern design.
 
 ### index.html
 
-![Google Lighthouse index.html](assets/images/testing-scans//Lighthouse-index.png)
+![Google Lighthouse index.html](assets/images/testing-scans/lighthouse-index.png)
 
 ### about.html
 
-![Google Lighthouse about.html](assets/images/testing-scans//Lighthouse-about.png)
+![Google Lighthouse about.html](assets/images/testing-scans/lighthouse-about.png)
 
 ### portfolio.html
-![Google Lighthouse portfolio.html](assets/images/testing-scans//Lighthouse-portfolio.png)
+![Google Lighthouse portfolio.html](assets/images/testing-scans/lighthouse-portfolio.png)
 
 ### contact.html
-![Google Lighthouse contact.html](assets/images/testing-scans//Lighthouse-contact.png)
+![Google Lighthouse contact.html](assets/images/testing-scans/lighthouse-contact.png)
 
 
 ## **Bugs**
