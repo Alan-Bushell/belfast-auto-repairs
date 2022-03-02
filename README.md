@@ -6,16 +6,30 @@
 
 
 
-**[Live site](https://alan-bushell.github.io/belfast-auto-repairs/index.html)**
+## **[Live site](https://alan-bushell.github.io/belfast-auto-repairs/index.html)**
 
 ------------------------------------------------------------------
 
-**[Repository](https://github.com/Alan-Bushell/belfast-auto-repairs)**
+## **[Repository](https://github.com/Alan-Bushell/belfast-auto-repairs)**
+------------------------------------------------------------------
   
+## Table of contents
 
+ 1. [ UX ](#ux)
+ 2. [ Features ](#features)  
+ 3. [ Features Left to Implement ](#left)  
+ 4. [ Technology used ](#tech) 
+ 5. [ Testing ](#testing)  
+ 6. [ Bugs ](#bugs)  
+ 7. [ Deployment](#deployment)
+ 8. [ Credits](#credits)
+ 9. [ Content](#content)  
+ 10. [ Acknowledgements](#acknowledgements)  
 
 
 ## UX
+
+<a name="ux"></a>
 ### Pre-project Planning
 >When deciding on this project I made a couple of point systems that ultimately lead me to this industry and the style at which I would try to create it.
 
@@ -145,6 +159,7 @@ And the occasional pop of color to finish on a modern design.
 
 ## Features
 
+<a name="features"></a>
 ### index.html
 
 #### Navigation Bar
@@ -204,7 +219,10 @@ And the occasional pop of color to finish on a modern design.
 
 > Instead of using a map from my own google developer account I used an i-frame from maps.ie as it was a convenient and quick solution. 
 
+
+<a name="left"></a>
 # Features Left to implement
+
 
 ### Home page
 > In the future I would like to include a side element banner to promote special offers that the repair shop may want to offer from time to time.
@@ -237,7 +255,7 @@ And the occasional pop of color to finish on a modern design.
 
 >I would add a facility for users to actually book in, in a realtime booking system.
 
-
+<a name="tech"></a>
 # Technology Used
 ### Html
 > Used to structure my webpages and the bones of any web project
@@ -260,6 +278,7 @@ And the occasional pop of color to finish on a modern design.
 ### Online-Convert.com
 > Used to convert files from png to webp to reduce size and improve web loading speed.
 
+<a name="testing"></a>
 # Testing
 > Testing on this project was mainly done manually by myself and a few friends to determine site usability, responsiveness and ensure it is intuitive to a completely new user.
 
@@ -348,6 +367,7 @@ And the occasional pop of color to finish on a modern design.
 ![W3 about.html Check](assets/images/testing-scans/css-w3jigsaw-check.png)
 #### Result: No Errors
 
+<a name="bugs"></a>
 ## **Bugs**
 > Issues with centering content on the hero overlay. **fixed**
 
@@ -367,7 +387,7 @@ And the occasional pop of color to finish on a modern design.
 
 > Bug appeared which some images did not show when deployed. Issue resolved as some images were using absolute file paths and not relative. **fixed**
 
-
+<a name="deployment"></a>
 ## Deployment
 
 > To deploy the project I followed these steps starting from the main project repository [here](https://github.com/Alan-Bushell/belfast-auto-repairs).
@@ -380,6 +400,7 @@ And the occasional pop of color to finish on a modern design.
  
 > I then received a notification from GitHub that my project is being deployed and after about 1 minute & a couple of refreshes of the page it was ready and live.
 
+<a name="credits"></a>
 ## Credits
 
 ### All images sourced from pexels.com. Links for images included below
@@ -426,6 +447,7 @@ And the occasional pop of color to finish on a modern design.
  
 > port-image12: Photo by cottonbro from Pexels(https://www.pexels.com/photo/person-in-black-shirt-and-gray-pants-standing-beside-black-car-4489765/)
 
+<a name="content"></a>
 ## Content & Resources
 ### Maps.ie 
 > Used to embed googlemap Iframe(https://www.maps.ie/)
@@ -448,7 +470,7 @@ And the occasional pop of color to finish on a modern design.
 ### Code Institute
 > Project created in line with course content and within project 1 scope.
 
-
+<a name="acknowlegements"></a>
 ## Acknowledgements
 
 ### Dick Vlandeeren
